@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Coder name="Korbin"/>
+
+    <Info>
+        <Person who="Queen Victoria"/>
+        <Person who="President James Buchanan"/>
+    </Info>
+
+    <Aug31 date="1858-08-31">
+
+
+        <Heading> August 31.</Heading>
+
+        <Message n="1">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“Can you read? We have two government messages. Will you take? Reply
+                direct.”</Text>
+        </Message>
+
+        <Message n="2">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“Try, but send.”</Text>
+        </Message>
+
+        <Message n="3">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“The Military Secretary to Commander-in-Chief Horse Guards, London. To General
+                Trollope, Halifax, Nova Scotia:—The sixty-second regiment is not to return to
+                England.”</Text>
+        </Message>
+
+        <Context>(This message, and that which will be found farther on in regard to the
+            thirty-ninth regiment, saved to the British government the sum of fifty thousands pounds
+            ($250,000), by avoiding the shipment and transportation of troops.)</Context>
+
+        <Message n="4">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“This received:The Military Secretary to Commander-in- Chief Horse Guards,
+                London.” “‘Trollope,’understand. Go on after ‘Scotia.’” “Is it finished after
+                ‘England?’”</Text>
+        </Message>
+
+        <Message n="5">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“Yes. Now take another. Are you ready?”</Text>
+        </Message>
+
+        <Message n="6">
+            <Sender>Newfoundland to Valentia. </Sender>
+            <Text>“Yes, send.”</Text>
+        </Message>
+
+        <Message n="7">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“The Military Secretary to Commander-in-Chief Horse Guards, to General Officer
+                commanding, Montreal, Canada:—The thirty-ninth regiment is not to return to
+                England.”</Text>
+        </Message>
+
+        <Message n="8">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“I want you to repeat ‘Canada.’”</Text>
+        </Message>
+
+        <Message n="9">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“Can’t read. Try ‘Daniels.’”</Text>
+        </Message>
+
+        <Message n="10">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“Repeat from ‘Canada’ to ‘return.’”</Text>
+        </Message>
+    </Aug31>
+
+    <Sep1 date="1858-09-01">
+
+        <Heading>September 1.</Heading>
+
+        <Message n="1">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“Canada. The thirty-ninth regiment is not to return.”</Text>
+        </Message>
+
+        <Message n="2">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“Understand. Will you take a service?”</Text>
+        </Message>
+
+        <Message n="3">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text>“I will try. Slow.”</Text>
+        </Message>
+
+        <Message n="4">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“We have received nothing since you repeated last.”</Text>
+        </Message>
+
+        <Message n="5">
+            <Sender> Valentia to Newfoundland.</Sender>
+            <Text>“Can you take message?”</Text>
+        </Message>
+
+        <Message n="6">
+            <Sender> Newfoundland to Valentia.</Sender>
+            <Text>“Yes.”</Text>
+        </Message>
+
+        <Message n="7">
+            <Sender>Valentia to Newfoundland.</Sender>
+            <Text> “ C.W. Field, New York:—The directors are on their way to Valentia to make
+                arrangements for opening wire to public. They convey through cable to you and your
+                fellow-citizens their hearty congratulations and good wishes, and cordially
+                sympathize in your joyous celebration of the great international work.”</Text>
+        </Message>
+
+        <Message n="8">
+            <Sender>Newfoundland to Valentia.</Sender>
+            <Text>“Forty-eight words. Right, right.”</Text>
+        </Message>
+
+        <Context> (These were the last words received at Valentia.)</Context>
+
+        <Message n="9">
+            <Sender> Valentia to Newfoundland.</Sender>
+            <Text>“Right (signal understand).”</Text>
+        </Message>
+
+        <Addition>
+            <Context>Some portions of the following message were received in
+                Newfoundland:—</Context>
+            <Text>“C.W. Field, New York, please inform American government we are now in position to
+                do best to forward their government messages to England. “SAWARD, London.”</Text>
+        </Addition>
+
+        <Context>The words italicized in the message were received in Newfoundland, and they were
+            the last received from Valentia.</Context>
+    </Sep1>
+</xml>
