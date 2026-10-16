@@ -12,7 +12,7 @@ div.side-by-side {
 }
 
 figure {
-    background-color: blue;
+    background-color: #edf24e;
 }
 figure.pic {
     flex: 1;
