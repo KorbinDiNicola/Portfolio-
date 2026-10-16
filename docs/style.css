@@ -11,6 +11,9 @@ div.side-by-side {
     width: 90%;
 }
 
+figure {
+    background-color: blue;
+}
 figure.pic {
     flex: 1;
 }
@@ -19,6 +22,7 @@ img {
     width: 59%;
     max-width: 500px;
 }
+
 
 .featureBlock {
     background-color:pink;
