@@ -7,6 +7,12 @@ body {
 
 div.side-by-side {
     display: flex;
+    background-color: lavender;
+    width: 90%;
+}
+
+figure.pic {
+    flex: 1;
 }
 
 img {
