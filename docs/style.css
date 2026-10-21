@@ -1,18 +1,22 @@
 body {
 
     /*background:papayaWhip*/
-    background: LightSteelBlue;
+    background: #99c2a2;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
 }
 
 div.side-by-side {
     display: flex;
-    background-color: lavender;
+    background-color: #c5edac;
     width: 90%;
+    margin:auto;
+    padding:1em;
 }
 
 figure {
-    background-color: #edf24e;
+    background-color: #dbfeb8;
+    width: 90%;
+    text-align: center;
 }
 figure.pic {
     flex: 1;
