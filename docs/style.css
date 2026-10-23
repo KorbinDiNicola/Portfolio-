@@ -22,6 +22,17 @@ figure.pic {
     flex: 1;
 }
 
+
+figure.pic2 {
+
+    background-color: #dbfeb8;
+    width: 30%;
+    padding:1em;
+   
+ 
+}
+
+
 img {
     width: 59%;
     max-width: 500px;
