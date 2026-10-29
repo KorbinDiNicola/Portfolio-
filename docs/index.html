@@ -17,8 +17,8 @@
     </head>
     <body>
         <h1> Korbin's Portfolio</h1>
-        <nav>
-            <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="gallery.html"
+        <nav class= "con">
+            <a href="index.html">Home</a> | <a href="about.html">Essays</a> | <a href="gallery.html"
                 >Gallery</a> | <a href="resume.html">Resumé</a> | <a href="Concerts.html"
                 >Concerts</a>
         </nav>
@@ -29,6 +29,13 @@
         <img src="images/korbinatgorillaz.jpeg" />
         <p>This is a picture of me before my most recent concert, Gorillaz The Mountain Tour.</p>
         <p>Also here's a button. It doesn't do anything... but you never know.</p>
-        <button>Click Me</button>
+        <button class="button button1" onclick="sayHello()">Click Me</button>
+      
+        <script>
+  function sayHello() {
+      alert('WHY DID YOU DO THAT!? This is bad REAL BAD! Dude... turn on the tv, doesnt matter what channel.');
+  }
+</script>
+        
     </body>
 </html>
