@@ -56,6 +56,9 @@ img {
     max-width: 500px;
 }
 
+img.zoomhover:hover {
+    transform: scale(4)
+}
 
 .featureBlock {
     background-color:pink;
