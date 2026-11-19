@@ -57,7 +57,11 @@ img {
 }
 
 img.zoomhover:hover {
-    transform: scale(4)
+    transform: scale(3.5)
+}
+
+img.zoomhover2:hover {
+    transform: scale(2)
 }
 
 .featureBlock {
